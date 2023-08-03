@@ -1,6 +1,4 @@
 # Workspace_fukaariri
 
 ## Editing the file
-
-Have you ever thought of something that can process your voice audio into someother voice?
-
+This repo has a matplotlib file. The content in the file has been taken from W3Schools. This file helps for understanding fundamentals of matplotlib library.
